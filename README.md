@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @WonderNxumalo
-- 👀 I’m interested in Python for data analysis
 - 🌱 I’m currently learning front-end web development (ALX-Mastercard)
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me ...
