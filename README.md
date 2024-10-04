@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning front-end web development (ALX-Mastercard)
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me ...
-- 😄 Pronouns: He
 - ⚡ Fun fact: Chemist turned Pharmacologist (on-going project ;) )
 
 <!---
