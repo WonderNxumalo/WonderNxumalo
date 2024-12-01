@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WonderNxumalo
+- 👋 Hi, I’m Wonder Nxumalo 🇿🇦
 - 🌱 I’m currently learning front-end web development (ALX-Mastercard)
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me ...
