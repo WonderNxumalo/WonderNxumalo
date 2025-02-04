@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wonder Nxumalo 🇿🇦
-- 🌱 I’m currently learning front-end web development (ALX-Mastercard)
-- 💞️ I’m looking to collaborate on web development projects
+- 🌱 Completed front-end web development programme with ALX Africa (Cohort 2, Jan 2025)
+- 💞️ I’m building FriMediaJobs, a STEMI job listing platform. Currently built using React.
 - 📫 How to reach me ...
 - ⚡ Fun fact: Chemist turned Pharmacologist (on-going project ;) )
 
